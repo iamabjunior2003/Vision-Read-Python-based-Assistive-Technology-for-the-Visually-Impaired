@@ -1,0 +1,8 @@
+1. pip3 install pytesseract
+2. pip3 install pyttsx3
+
+Helping Article :
+https://stackoverflow.com/questions/50951955/pytesseract-tesseractnotfound-error-tesseract-is-not-installed-or-its-not-i
+
+
+https://pypi.org/project/opencv-python/
